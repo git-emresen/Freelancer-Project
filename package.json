@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "express-fileupload": "^1.5.0",
+    "mongoose": "^8.3.3"
+  },
+  "name": "freelancerproject",
+  "version": "1.0.0",
+  "description": "patika.dev project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
